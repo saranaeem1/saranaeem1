@@ -2,7 +2,7 @@
 <br/>
 <h3 align="center">
          👋 Hello World!, I am
-                <b><a target="_blank" href="www.linkedin.com/in/sara-naeem-7072b322a">Sara Naeem</a></b> 
+                <b><a target="_blank" href="https://www.linkedin.com/in/sara-naeem-7072b322a">Sara Naeem</a></b> 
 </h3>
 <h4 align="center">
          Final Year Software Engineering Student | AI & Web Development Enthusiast
@@ -11,7 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADEF&width=700&lines=Software+Engineer+%7C+AI+and+Web+Development+Enthusiast;)](https://git.io/typing-svg)
 
 <p align="center">
- <a href="www.linkedin.com/in/sara-naeem-7072b322a" target="_blank">
+ <a href="https://www.linkedin.com/in/sara-naeem-7072b322a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sara's LinkedIn"/>
  </a>
 <a href="mailto:saranaeem754@gmail.com" target="_blank">
