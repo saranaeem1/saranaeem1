@@ -5,7 +5,7 @@
                 <b><a target="_blank" href="https://www.linkedin.com/in/sara-naeem-7072b322a">Sara Naeem</a></b> 
 </h3>
 <h4 align="center">
-         Final Year Software Engineering Student | AI & Web Development Enthusiast
+         Software Engineer | Data Analytics & AI Enthusiast
 </h4>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADEF&width=700&lines=Software+Engineer+%7C+AI+and+Web+Development+Enthusiast;)](https://git.io/typing-svg)
